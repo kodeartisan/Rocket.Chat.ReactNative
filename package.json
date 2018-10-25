@@ -64,7 +64,7 @@
     "react-native-vector-icons": "^5.0.0",
     "react-native-video": "^3.2.1",
     "react-native-video-controls": "^2.2.3",
-    "react-redux": "^5.0.6",
+    "react-redux": "^5.1.0",
     "realm": "^2.18.0",
     "redux": "^4.0.1",
     "redux-enhancer-react-native-appstate": "^0.3.1",
